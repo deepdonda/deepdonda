@@ -30,3 +30,19 @@
 |---|---|
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <br/>
+<b>⚡ Github Activity</b>
+<br>
+<a  href="https://github.com/deepdonda">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=deepdonda&show_icons=true"  />
+  
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdonda&layout=compact"  />
+
+</a>
+
+<h4>Let's Get in touch</h4>
+<p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:deepdonda@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deep-donda-8665a21a7/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/deep_donda/)
+
+</p>
+
