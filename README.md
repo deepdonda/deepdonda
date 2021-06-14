@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Deep Donda
 
 <!--
 **deepdonda/deepdonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 I am pursuing Computer Engineering at Dharmsinh Desai University
